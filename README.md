@@ -1,1 +1,1 @@
-# Hello
+# Hello World for Go tutorial
